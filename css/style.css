@@ -70,9 +70,7 @@ img {
 
 .content a:hover {
   color: #ccc;
-  font-weight: 600;
   font-size: 16px;
-  text-decoration: underline;
 }
 
 .content button {
